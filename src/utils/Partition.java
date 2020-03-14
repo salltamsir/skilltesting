@@ -14,7 +14,7 @@ public class Partition {
      * Split a list into sublists of a given size.
      * @param liste, list to partotion.
      * @param size, max size of partitioj.
-     * @return A list contaoning all sublists.
+     * @return A list containing all sublists.
      */
     public static <T> List<List<T>> partition(List<T> liste, int size){
 
